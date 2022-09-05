@@ -2,7 +2,7 @@
 
 Converts a password store of Password Corral to one of KeePass
 
-Important, unlike other applications available, folders are migrated.
+Important, unlike other applications available, **folders are migrated**.
 
 This program is not very pretentious, I made it, used it and published it in case someone else has the same need. If you are interested in adding any new functionality, let me know and I will gladly give you its development.
 
@@ -35,3 +35,7 @@ In Password Corral you can add a mail field that does not exist in Keepass. This
 
 ## Donwload
 * https://github.com/atallo/pwc2kp/releases
+
+## Requires
+* Windows
+* .NET Framework 4.8
