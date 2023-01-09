@@ -9,7 +9,7 @@ This program is not very pretentious, I made it, used it and published it in cas
 Please don't make unnecessary forks.
 
 More information:
-* Password Corrral http://www.cygnusproductions.com/freeware/pc.asp
+* Password Corral http://www.cygnusproductions.com/freeware/pc.asp
 * Keepass https://keepass.info/
 
 
