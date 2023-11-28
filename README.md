@@ -1,6 +1,6 @@
 # PWC2KP - Password Corral to KeePass
 
-Converts a password store of Password Corral to one of KeePass
+Converts a password store of Password Corral to one of KeePass/Bitwarden (or in general almost any password manager)
 
 Important, unlike other applications available, **folders are migrated**.
 
@@ -12,6 +12,13 @@ More information:
 * Password Corral http://www.cygnusproductions.com/freeware/pc.asp
 * Keepass https://keepass.info/
 
+# Security
+
+This program is 100% virus free. Currently some bad antivirus detect it as a hacking tool or a Trojan. That is because 
+this program to obtain the data uses a similar technique to some of those programs. If you are not comfortable with this problem, 
+I recommend that you use the sources directly, or run the program in a virtual machine.
+
+https://www.virustotal.com/gui/url/e06156828046fadaef225ba4fe2043b9f454589330f2f47ad3e8af7647a3b8a8/detection
 
 ## Use:
 1. Run the app
